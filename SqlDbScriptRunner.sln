@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBScriptRunner", "DBScriptCreator\DBScriptRunner.csproj", "{3F24F491-8251-4A62-97BA-A2E3FB1B805B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F24F491-8251-4A62-97BA-A2E3FB1B805B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F24F491-8251-4A62-97BA-A2E3FB1B805B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F24F491-8251-4A62-97BA-A2E3FB1B805B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F24F491-8251-4A62-97BA-A2E3FB1B805B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70584EBE-3E2B-4FCA-8937-D4527F301DE6}
+	EndGlobalSection
+EndGlobal
